@@ -21,6 +21,5 @@ Coloquei a segunda parte do site que são conteudo do site de notícias, e tamb�
 Coloquei a segunda parte do site como, ultimas notícias, publicidade e entre outros mais, também coloquei para fica reposivo o site para mobile, tablet e pc também coloquei um arquivo main.js que é em javascript lá configurei alguma coisas como o menu do site por modo mobile.
 
 # ===================================== 
->>>>>>> 597f52f (Dia 2 Atuilizando a parte de baixo do site e main.js)
 
 # Meu Insta🌐: https://www.instagram.com/rafael.timoteo.r.h/
