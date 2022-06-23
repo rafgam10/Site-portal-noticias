@@ -9,11 +9,20 @@ Este projeto foi criando pelo meu curso de programação que era para, eu fazer 
 # Dia 1 :
 Coloquei uma logo, 2 menu, também submenu, barra de pesquisa e icones de rede social.
 
+<<<<<<< HEAD
 # =====================================
 
 # Dia 2 :
 Coloquei a segunda parte do site que são conteudo do site de notícias, e também main.js no projeto.
 
 # =====================================
+=======
+# ===================================== 
+
+# Dia 2 :
+Coloquei a segunda parte do site como, ultimas notícias, publicidade e entre outros mais, também coloquei para fica reposivo o site para mobile, tablet e pc também coloquei um arquivo main.js que é em javascript lá configurei alguma coisas como o menu do site por modo mobile.
+
+# ===================================== 
+>>>>>>> 597f52f (Dia 2 Atuilizando a parte de baixo do site e main.js)
 
 # Meu Insta🌐: https://www.instagram.com/rafael.timoteo.r.h/
